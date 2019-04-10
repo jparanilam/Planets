@@ -1,1 +1,2 @@
 TEsting Jupiter, is it livable?
+-Possible distance issue
