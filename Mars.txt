@@ -1,4 +1,7 @@
 James Changing first line- Gamm will like dry air cat Mars.txt
 -test push
 rckjr added a line
+<<<<<<< HEAD
 rckjr added another line rckjr should get a conflict
+=======
+rckjr added another line (james added)
